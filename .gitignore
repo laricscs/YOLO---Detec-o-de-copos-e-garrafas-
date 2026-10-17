@@ -1,0 +1,21 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Imagens usadas para testes
+imagens_test/
+teste_internet/
+
+# Pesos dos modelos treinados
+meus_modelos/
+
+# Vídeos originais e GIFs: manteremos apenas o GIF em assets
+video/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais
+.env
